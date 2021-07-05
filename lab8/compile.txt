@@ -1,0 +1,1 @@
+gcc -masm=intel fpu.c -o hd
